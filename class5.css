@@ -1,0 +1,18 @@
+firstbox{
+    border:black 2px solid;
+}
+#internal_ul{
+    background-color: chartreuse;
+}
+ol{
+    background-color: coral;
+}
+p[name="first_p_tag"]{
+    background-color: crimson;
+}
+body{
+    background-color: green;
+}
+img{
+    border-radius: 5%;
+}
